@@ -1,0 +1,156 @@
+
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.profile {
+
+    word-spacing: 7px;
+    line-height: 30px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: 'Merriweather', serif;
+    font-size:4rem;
+    color: #66BFBF;
+}
+
+h2 {
+    font-size: 2rem;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    padding-bottom: 10px;
+
+}
+h3{
+  font-family: 'Lemonada', cursive;
+  color: #050606;
+}
+
+hr{
+  border-style: none;
+    border-top-style: dotted;
+    border-color: #ccdfde;
+    border-width: 6px;
+    width: 5%;
+    margin: 50px auto;
+}
+p{
+  line-height: 2;
+font-family: 'Exo 2', sans-serif;
+}
+
+.footer-link {
+   color: #050606;
+   font-family: 'Montserrat', sans-serif;
+   text-decoration: none;
+}
+a:hover{
+  color:#EAF6F6;
+}
+.series{
+  font-family: 'Lemonada', cursive;
+  color: #050606;
+  text-decoration: none;
+}
+.series:hover{
+  color: blue;
+}
+
+.paragraph{
+  font-family: 'Lemonada', cursive;
+    font-size: 1.5rem;
+    margin-left: 150px;
+    color: #11999E;
+
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+}
+.middle-container{
+  margin: 40px 0;
+}
+
+.top-cloud{
+  position: absolute;
+  right: 400px;
+  top: 40px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+.bottom-container {
+    margin-top: 30px;
+    line-height: 3;
+    background-color: #94b7bc;
+    word-spacing: 20px;
+    padding: 0 0 20px 0;
+}
+
+.Hobbies-row{
+  width: 50%;
+  margin:100px auto 100px auto;
+  text-align: left;
+}
+.coding-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+  }
+.netflix-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.gaming-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.eating-img{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.walking-img{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+
+}
+.copyright{
+    color: #050606;
+    font-size: 0.75rem;
+    word-spacing: normal;
+}
+
+.intro{
+  width: 30%;
+  margin: auto;
+}
+
+
+.btn{
+
+    box-shadow: 0 0 1px -1px #3dc21b;
+    background: linear-gradient(to bottom, #228491 5%, #94b7bc 100%);
+    background-color: #228491;
+    border-radius: 28px;
+    border: 2px solid #13808f;
+    display: inline-block;
+    cursor: pointer;
+    color: #ffffff;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px;
+    padding: 17px 32px;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #79ad71;
+}
