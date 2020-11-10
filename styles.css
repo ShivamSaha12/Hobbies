@@ -154,3 +154,7 @@ a:hover{
     text-decoration: none;
     text-shadow: 0 1px 0 #79ad71;
 }
+.btn:hover{
+  background:linear-gradient(to bottom, #94b7bc 5%, #228491 100%);
+	background-color:#94b7bc;
+}
